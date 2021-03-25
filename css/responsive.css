@@ -435,9 +435,19 @@
         width: 100%;
     }
 
+    .person-text {
+        align-items: flex-start;
+        font-size: 15px;
+    }
+
+    .span {
+        font-size: 19px;
+    }
+
 
     .headset-title {
         font-size: 40px;
+      
     }
 
     .users-img-box {
